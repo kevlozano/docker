@@ -1,0 +1,2 @@
+#docker-machine ssh Char "docker service logs $(docker service ps engineering-bay -f "name=engineering-bay.1" -q) --follow"
+docker-machine ssh Char docker service logs 2obx3292e53rpnq4urr0uq09e --follow
