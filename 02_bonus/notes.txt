@@ -1,0 +1,3 @@
+google how to use GUI apps with docker-machines
+has something to do with docker-machine not forwarding X11 or drivers for accelerated hardware
+the files you found are cool and ok, just figure out how to with docker machine
